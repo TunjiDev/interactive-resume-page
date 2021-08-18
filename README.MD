@@ -4,3 +4,4 @@
 
 2. Run "npm start" to start the server.
 
+Heroku link: https://tunji-interactive-resume-page.herokuapp.com/
