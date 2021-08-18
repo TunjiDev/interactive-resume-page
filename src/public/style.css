@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+main {
+    margin: 0;
+    padding: 10px 10px 20px 10px;
+}
+.section-1 h1 {
+    background-color: rgb(63, 63, 221);
+    color: white;
+    text-align: center;
+    margin-top: 0;
+    padding: 20px;
+}
+section h3 {
+    background-color: rgb(84, 84, 169);
+    color: rgb(216, 202, 202);
+    text-align: center;
+    margin-top: 0;
+    padding: 10px;
+}
+form {
+    border: 1px solid rgb(63, 63, 221);
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 30%;
+    margin: 0px auto;
+}
+#message {
+    height: 100px;
+}
